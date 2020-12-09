@@ -1,0 +1,12 @@
+*.pgm
+Arduino_python/image1
+Arduino_python/image2
+Arduino_python/image3
+Arduino_python/image4
+Arduino_python/image5
+Arduino_python/image6
+Arduino_python/image7
+Arduino_python/image7b
+Arduino_python/image7c
+*.jpg
+Arduino_python/image*/*.jpg
